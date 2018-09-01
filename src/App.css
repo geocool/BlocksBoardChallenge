@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.App h4 {
+  color: #545353;
+  margin: 0;
+}
+
+.App h3 {
+  color: #545353;
+  margin: 6px auto;
+  text-align:left;
+  width: 50%;
+}
+
+.App h1 {
+  font-size: 28px;
+  color: #545353;
+  margin-bottom: 0;
+}
+
+.App-header {
+}
+
+.App-challengePoints {
+  margin-top: 20px;
+}
+
+.App-description {
+  text-align:left;
+  margin: 30px auto;
+  margin-top: 0; 
+  width: 50%;
+}
+

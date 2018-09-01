@@ -1,0 +1,21 @@
+.BoardController {
+	width: 60%;
+	margin: 30px auto;
+	text-align: left;
+}
+
+.BoardController-inputLabel {
+	width: 100px;
+	clear:left;
+	float:left;
+
+	font-weight: bold;
+}
+
+.BoardController-inputNumber {
+	width: 40px;
+}
+
+.BoardController-inputCheckbox {
+	margin-left:0;
+}
